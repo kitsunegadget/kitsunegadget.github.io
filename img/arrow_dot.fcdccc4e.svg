@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 16 16" width="16" height="16">
+    <!-- <rect x="0.5" y="0.5" width="15" height="15" fill="none" stroke="black"/> -->
+    <path 
+        d="M 1.5 11.5
+        v-2 h1 v-1 h1 v-1 h1 v-1 h1 v-1 h1 v-1 h1 v-1 h1
+        v1 h1 v1 h1 v1 h1 v1 h1 v1 h1 v1 h1 v2 Z"
+        fill="#333" stroke="#333" stroke-width="1" />
+    <path 
+        d="M 2.0 11.0
+        v-2 h1 v-1 h1 v-1 h1 v-1 h1 v-1 h1 v-1 h2
+        v1 h1 v1 h1 v1 h1 v1 h1 v1 h1 v2 Z"
+        fill="white" />
+</svg>
